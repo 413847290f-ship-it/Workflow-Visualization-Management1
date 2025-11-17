@@ -9,7 +9,7 @@ on:
 env:
   WORKING_DIR: .
   DIST_DIR: dist
-  PROJECT_NAME: workflow-visualization-management
+  PROJECT_NAME: workflow-visualization-management1
 
 jobs:
   build-and-deploy:
